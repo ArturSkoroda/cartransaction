@@ -7,7 +7,7 @@ public enum FuelType {
     ELECTRYCZNY,
     HYBRYDA,
     INNY,
-    LPG
+    LPG;
 
 
 }
